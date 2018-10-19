@@ -1,0 +1,128 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Oswald:400,600');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
+@import url('https://fonts.googleapis.com/css?family=Charmonman:700');
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Niconne');
+body {
+    margin: 0;
+    padding: 0;
+}
+header{
+    background:black;
+    color: white;
+    padding:8px 0px 8px 40px;
+    margin:0;
+    height: 45px;
+}
+header h1{
+    display:inline;
+    font-family: 'Oswald', sans-serif;
+    font-weight:400;
+    font-size: 32px;
+    float:left;
+    margin-top:0px;
+    margin-right:0px;
+    margin-right: 10px;
+}
+nav ul{
+    display:inline;
+    padding:0px;
+    float:left;
+}
+nav ul li{
+    display:inline-block;
+    list-style-type:none;
+    color:white;
+    float:left;
+    margin-left:12px;
+}
+nav ul li a{
+    color:white;
+    text-decoration: none;
+}
+#nav{
+    font-family: 'Montserrat', sans-serif;
+}
+.homered{
+    background-color:red;
+    padding: 30px 10px 18px 10px;
+}
+.divider{
+    background-color:red;
+    padding-top:3px;
+}
+.homeblack:hover{
+    background-color:blue;
+    padding:28px 10px 16px 10px;
+}
+.imga {
+    background-image: url('images/img2.jpg');
+    width: 100%;
+    height:100%;
+    background-repeat:no-repeat;
+    background-size:cover;
+    margin:0;
+    padding-bottom:700px;
+}
+.homesub{
+    font-family: 'Raleway', sans-serif;
+    margin:0;
+    padding:9% 5% 0% 55%;
+    font-size:20px;
+    color:yellow;
+}
+.homemu{
+    font-family: 'Pacifico', cursive;
+    margin:0.2% 0% 0% 55%;
+    font-size:75px;
+    color: white;
+    background-color:rgba(0, 0, 0, 0.4);
+    display:inline-block;
+}
+.homeart{
+    font-family: 'Charmonman', cursive;
+    margin: 0% 0% 0% 55%;
+    font-size:65px;
+    display:inline-block;
+}
+.homebutton{
+    margin:0% 0% 0% 55%;
+    background:yellow;
+    color:black;
+    border:none;
+    height:50px;
+    font-size:1.4em;
+    padding:0.5em;
+    cursor:pointer;
+    outline:none;
+    font-family: 'Raleway', sans-serif;
+    font-weight:900;
+    border-radius:10px;
+}
+.homebutton:hover{
+    cursor:pointer;
+    background-color:red;
+    color:white;
+}
+.homeauto1{
+    font-family: 'Niconne', cursive;
+    margin:0;
+    padding:1% 35% 0% 35%;
+    font-size:40px;
+    color:yellow;
+}
+.homeauto2{
+    font-family: 'Niconne', cursive;
+    margin:0;
+    padding:0% 35% 0% 40%;
+    font-size:30px;
+    color:yellow;
+}
+.homeauto3{
+    font-family: 'Niconne', cursive;
+    margin:0;
+    padding:0% 35% 0% 38%;
+    font-size:30px;
+    color:yellow;
+}

@@ -1,0 +1,35 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using System.Data.SqlClient;
+
+public partial class repeat : System.Web.UI.Page
+{
+    SqlConnection con = new SqlConnection(@"Data Source=LAPTOP-O1SMTLSV\SQL2014;Initial Catalog=Debojyoti;Integrated Security=True");
+    SqlCommand cmd;
+    SqlDataAdapter da;
+    DataTable dt;
+    DataSet ds = new DataSet();
+    protected void Page_Load(object sender, EventArgs e)
+    {
+
+    }
+
+    protected void Button1_Click(object sender, EventArgs e)
+    {
+        cmd = new SqlCommand("select * from Work where empid='"+TextBox1.Text+"'", con);
+        SqlDataAdapter da = new SqlDataAdapter(cmd);
+        da.Fill(ds);
+        int i = ds.Tables[0].Rows.Count;
+        if (i > 0)
+        {
+            lblerror.Text = "This Data already exist";
+            ds.Clear();
+        }
+
+    }
+}

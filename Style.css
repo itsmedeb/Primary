@@ -1,0 +1,150 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Oswald:400,600');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
+body {
+    margin 0;
+    padding 0;
+    background: url(images/img2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+}
+.loginbox{
+    width: 320px;
+    height: 420px;
+    background: #000;
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+}
+.txtId{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+}
+.Button1{
+    border: none;
+    outline: none;
+    background: #fb2525;
+    color: #fff;
+    font-size:18px;
+    border-radius:20px;
+}
+.Button2{
+    border: none;
+    outline: none;
+    background: #fb2525;
+    color: #fff;
+    font-size:18px;
+    border-radius:20px;
+}
+.Button1:hover{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+.Button2:hover{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+.txtFname{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+}
+.txtLname{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+}
+.txtContact{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+}
+.txtFname{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+}
+.txtAddress{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+}
+.ddlGender{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+}
+.txtUsername{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+}
+.txtPassword{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+}
+header{
+    background:black;
+    color: white;
+    margin:0px 0px 0px 0px;
+    padding:10px 0px 6px 40px;
+    height: 45px;
+}
+header h1{
+    display:inline;
+    font-family: 'Oswald', sans-serif;
+    font-weight:400;
+    font-size: 32px;
+    float:left;
+    margin-top:0px;
+    margin-right:0px;
+    margin-right: 10px;
+}
+nav ul{
+    display:inline;
+    padding:0px;
+    float:left;
+}
+nav ul li{
+    display:inline-block;
+    list-style-type:none;
+    color:white;
+    float:left;
+    margin-left:12px;
+}
+nav ul li a{
+    color:white;
+    text-decoration: none;
+}
+#nav{
+    font-family: 'Montserrat', sans-serif;
+}
+.homered{
+    background-color:red;
+    padding: 30px 10px 16px 10px;
+}
+.divider{
+    background-color:red;
+    padding-top:3px;
+}
+.homeblack:hover{
+    background-color:blue;
+    padding:28px 10px 16px 10px;
+}

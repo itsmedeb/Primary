@@ -1,0 +1,94 @@
+<html lang="en">
+<head>
+  <title>Debojyoti Das | Portfolio of Debojyoti Das</title>
+
+<base href="/">
+
+  
+<meta charset="utf-8">
+  
+<meta name="title" content="Debojyoti Das | Portfolio of Debojyoti Das">
+  
+<meta name="author" content="Debojyoti Das, ritwickdey@outlook.com">
+  
+<meta name="description" content="Hi, I am Debojyoti Das. Welcome to Portfolio Website">
+  
+<meta name="keywords" content="Debojyoti Das, debojyotidas, debojyoti , profile card of debojyoti das, portfolio website of debojyoti das ,portfolio website ,profile card">
+  
+<link rel="canonical" href="https://debojyotidas.github.io/">
+
+  
+<meta property="og:title" content="Debojyoti Das | Portfolio of Debojyoti Das">
+  
+<meta property="og:type" content="profile">
+  
+<meta property="og:url" content="https://ritwickdey.github.io/">
+  
+<meta property="og:description" content="Hi, I am Debojyoti Das. Welcome to Portfolio Website">
+  
+<meta property="og:site_name" content="Debojyoti Das">
+  
+<meta property="og:locale" content="en_IN">
+
+  
+<meta name="twitter:site" content="@Dey_Ritwick">
+  
+<meta name="twitter:creator" content="@Dey_Ritwick">
+
+  
+<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script>
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "Ritwick Dey",
+      "headline": "Portfolio Website",
+      "author": {
+        "@type": "Person",
+        "name": "Ritwick Dey"
+      },
+      "description": "Portfolio Website of Ritwick Dey",
+      "sameAs": ["https://twitter.com/Dey_Ritwick", "https://www.facebook.com/DeyRitwick",
+        "https://plus.google.com/+Ritwick", "https://github.com/ritwickdey"
+      ],
+      "url": "https://ritwickdey.github.io/"
+    }
+
+  </script>
+
+  
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-118443281-1"></script>
+  
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-118443281-1');
+  </script>
+
+
+  
+<meta name="google-site-verification" content="y-KvJvSKZ46u89qRLkNaEeZLB6cN0s6SYt0qqWYnI1I">
+  
+<meta name="msvalidate.01" content="0F6D8C312CF9FE78F3F4E518DE01F64C">
+
+
+  
+<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi">
+  
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+
+<link rel="stylesheet" href="styles.de5cc5c25688ca28d7d4.css"><style></style>
+<style>.root-container[_ngcontent-c3]{display:flex;flex-direction:column;height:100vh;width:100vw}.overlay[_ngcontent-c3]{height:100vh;width:100vw;overflow:hidden;z-index:-1;display:block;background:#2c3e50;position:fixed;right:0;top:0;pointer-events:none;-webkit-clip-path:ellipse(50vw 40vh at 50% 50%);clip-path:ellipse(50vw 40vh at 50% 50%);-webkit-transform:scale(2) translate(27vw,-18vh) rotate(335deg);transform:scale(2) translate(27vw,-18vh) rotate(335deg);-webkit-animation:1s ease-in-out .2s both leftToRight;animation:1s ease-in-out .2s both leftToRight}.dp-logo[_ngcontent-c3]{font-size:2rem;-webkit-animation:1s ease-in-out .2s both fadeIn;animation:1s ease-in-out .2s both fadeIn}.navbar[_ngcontent-c3]{width:100%;color:#f8f8f8;font-size:2rem;padding:1.6rem;display:flex;justify-content:center;align-items:center}.nav-items[_ngcontent-c3]   .nav-item[_ngcontent-c3]{display:inline-block;padding:.2rem 0;margin:.6rem 1rem;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;cursor:pointer;border-bottom:.3rem solid #17a598;color:#f8f8f8;text-decoration:none}.container[_ngcontent-c3]{display:flex;flex:1;flex-direction:column;justify-content:center;align-items:center;height:100%;font-size:1.6rem;color:#f8f8f8;margin-top:5%}.short-bio[_ngcontent-c3]{font-size:1.6rem;padding:1.6rem;font-weight:400;-webkit-animation:1s ease-in-out .2s both fadeIn;animation:1s ease-in-out .2s both fadeIn}.quote[_ngcontent-c3]{font-family:'Cormorant Garamond',serif;font-size:1.8rem;padding:0 1rem 1rem;-webkit-animation:1s ease-in-out .4s both fadeIn;animation:1s ease-in-out .4s both fadeIn}.name[_ngcontent-c3]{font-family:'Cormorant Garamond',serif;font-size:2.4rem;font-weight:700;line-height:1.6;padding-top:.6rem;text-transform:uppercase;letter-spacing:.4rem;word-spacing:.2rem;text-align:center;margin-bottom:-2.5rem;-webkit-animation:1s ease-in-out .6s both fadeIn;animation:1s ease-in-out .6s both fadeIn}.name[_ngcontent-c3]:hover   .strip[_ngcontent-c3]::after{left:-1rem}.name[_ngcontent-c3]:hover   .strip[_ngcontent-c3]::before{left:1rem}.strip[_ngcontent-c3]{display:inline-block;position:relative;width:28rem;margin:auto auto 2rem;-webkit-animation:1s ease-in-out .8s both fadeIn;animation:1s ease-in-out .8s both fadeIn}.strip[_ngcontent-c3]::before{transition:.3s all ease-in-out;content:'';position:absolute;display:inline-block;height:2px;background-color:#e74c3c;margin:auto;width:100%;top:0;left:-1rem}.strip[_ngcontent-c3]::after{transition:.3s all ease-in-out;position:absolute;display:inline-block;content:'';height:2px;background-color:#e74c3c;margin:auto;width:100%;top:4px;left:1rem}.special-btn[_ngcontent-c3]{min-width:15rem;line-height:2.2;font-size:1.4rem;padding:.5rem;margin-top:2rem;background-color:#e74c3c;color:#fff;border:none;outline:0;border-radius:100rem;cursor:pointer;transition:all .3s ease-in-out;-webkit-animation:1s ease-in-out 1s both fadeIn;animation:1s ease-in-out 1s both fadeIn;box-shadow:7px 5px 8px 0 rgba(0,0,0,.31);position:relative}.special-btn[_ngcontent-c3]   span[_ngcontent-c3]{position:relative;-webkit-transform:translateX(.7rem);transform:translateX(.7rem);display:inline-block;transition:all .3s ease-in-out}.special-btn[_ngcontent-c3]:hover{background-color:#db381b;-webkit-animation-play-state:paused;animation-play-state:paused}.special-btn[_ngcontent-c3]:hover::after{-webkit-transform:translateX(.2rem);transform:translateX(.2rem);opacity:1}.special-btn[_ngcontent-c3]:hover   span[_ngcontent-c3]{-webkit-transform:translateX(-.2rem);transform:translateX(-.2rem)}.special-btn[_ngcontent-c3]:active{-webkit-transform:scale(.8);transform:scale(.8);box-shadow:4px 5px 5px 0 rgba(0,0,0,.31)}.special-btn[_ngcontent-c3]::after{content:'\00bb';position:relative;opacity:0;vertical-align:sub;font-size:2.7rem;line-height:0;-webkit-transform:translateX(25px);transform:translateX(25px);display:inline-block;transition:all .3s ease-in-out}.stick[_ngcontent-c3]{flex:1;margin-top:-1rem;width:100%;overflow:hidden;position:relative;z-index:-1;-webkit-animation:1s ease-in-out 1s both fadeIn;animation:1s ease-in-out 1s both fadeIn}.stick[_ngcontent-c3]::after{content:'';height:200vh;width:1.6rem;display:inline-block;position:absolute;background-color:#e74c3c;left:50%;top:0;z-index:5;-webkit-transform:translate(-50%);transform:translate(-50%);box-shadow:7px 5px 8px 0 rgba(0,0,0,.31)}.stick[_ngcontent-c3]   .stick-design[_ngcontent-c3]{background-color:#e74c3c;padding:1.4rem;position:absolute;left:50%;min-width:8.5rem;top:3.5rem;border-radius:100rem;-webkit-transform:translate(-50%);transform:translate(-50%);z-index:6;box-shadow:13px 0 20px 0 rgba(0,0,0,.2);transition:1s all ease-in-out}.stick[_ngcontent-c3]   .stick-design[_ngcontent-c3]::after{content:'';height:.8rem;width:.8rem;position:absolute;border-radius:50%;background-color:#2c3e50;top:50%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);box-shadow:2rem 0 0 #2c3e50,-2rem 0 0 #2c3e50}.tada-animation[_ngcontent-c3]{-webkit-animation:1s ease-in-out 2 both tada;animation:1s ease-in-out 2 both tada}@-webkit-keyframes leftToRight{0%{display:relative;opacity:.1;left:-20%}100%{display:relative;opacity:1;left:0}}@keyframes leftToRight{0%{display:relative;opacity:.1;left:-20%}100%{display:relative;opacity:1;left:0}}@-webkit-keyframes fadeIn{0%{opacity:0;-webkit-transform:scale(0);transform:scale(0)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}@keyframes fadeIn{0%{opacity:0;-webkit-transform:scale(0);transform:scale(0)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}@-webkit-keyframes tada{0%,100%{-webkit-transform:scale(1) rotate(0);transform:scale(1) rotate(0)}10%,30%,50%,70%,90%{-webkit-transform:scale(1.1) rotate(-4deg);transform:scale(1.1) rotate(-4deg)}20%,40%,60%,80%{-webkit-transform:scale(1.1) rotate(4deg);transform:scale(1.1) rotate(4deg)}}@keyframes tada{0%,100%{-webkit-transform:scale(1) rotate(0);transform:scale(1) rotate(0)}10%,30%,50%,70%,90%{-webkit-transform:scale(1.1) rotate(-4deg);transform:scale(1.1) rotate(-4deg)}20%,40%,60%,80%{-webkit-transform:scale(1.1) rotate(4deg);transform:scale(1.1) rotate(4deg)}}@-webkit-keyframes stripAnimation{0%{-webkit-transform:translateX(-10px) rotateZ(0);transform:translateX(-10px) rotateZ(0);opacity:0}100%{-webkit-transform:translateX(0) rotateZ(-16deg);transform:translateX(0) rotateZ(-16deg);opacity:1}}@keyframes stripAnimation{0%{-webkit-transform:translateX(-10px) rotateZ(0);transform:translateX(-10px) rotateZ(0);opacity:0}100%{-webkit-transform:translateX(0) rotateZ(-16deg);transform:translateX(0) rotateZ(-16deg);opacity:1}}</style><style>.profile-logo[_ngcontent-c4]{height:14rem;width:14rem;display:inline-block;position:relative;z-index:5;border-radius:50%;-webkit-perspective:1500px;perspective:1500px;transition:all .2s ease-in-out;-webkit-animation:1s ease-in-out .4s both dropin;animation:1s ease-in-out .4s both dropin}.profile-logo[_ngcontent-c4]   img[_ngcontent-c4]{position:relative;border:.8rem solid #e74c3c;height:100%;width:100%;border-radius:50%;-webkit-backface-visibility:hidden;backface-visibility:hidden;transition:all .5s ease-in-out;-webkit-perspective:1500px;perspective:1500px}.profile-logo[_ngcontent-c4]::after{content:'Ritwick Dey';display:flex;position:absolute;height:100%;width:100%;color:#fff;justify-content:center;align-items:center;border-radius:50%;background-color:#e74c3c;border:.8rem solid #db381b;top:0;left:0;z-index:10;font-size:.8em;transition:all .5s ease-in-out;-webkit-transform:rotateY(180deg);transform:rotateY(180deg);-webkit-backface-visibility:hidden;backface-visibility:hidden;-webkit-perspective:1500px;perspective:1500px}.profile-logo[_ngcontent-c4]:hover   img[_ngcontent-c4]{-webkit-transform:rotateY(180deg);transform:rotateY(180deg)}.profile-logo[_ngcontent-c4]:hover::after{-webkit-transform:rotateY(0);transform:rotateY(0)}</style></head>
+
+
+
+<body>
+  <app-root _nghost-c0="" class="ng-tns-c0-0" ng-version="6.0.3"><div _ngcontent-c0="" class="ng-tns-c0-0 ng-trigger ng-trigger-routerTransition"><router-outlet _ngcontent-c0="" class="ng-tns-c0-0"></router-outlet><app-profile _nghost-c1="" class="ng-tns-c1-1 ng-star-inserted" style=""><div _ngcontent-c1="" class="ng-tns-c1-1 ng-trigger ng-trigger-animate ng-animate-queued"><!----></div><app-landing-page _ngcontent-c1="" class="ng-tns-c1-1" _nghost-c3=""><div _ngcontent-c3="" class="overlay"></div><div _ngcontent-c3="" class="root-container"><div _ngcontent-c3="" class="navbar"><div _ngcontent-c3="" class="nav-items"><a _ngcontent-c3="" class="nav-item" href="#!/portfolio">Portfolio</a><a _ngcontent-c3="" class="nav-item" href="#!/about">About &amp; Skills</a><a _ngcontent-c3="" class="nav-item" href="#!/profiles">Profiles</a></div></div><div _ngcontent-c3="" class="container"><app-dp-logo _ngcontent-c3="" class="dp-logo" _nghost-c4=""><div _ngcontent-c4="" class="profile-logo"><img _ngcontent-c4="" alt="my pic" src="assets/img/Profile-Pic-Ritwick-Dey2.jpg"></div></app-dp-logo><h4 _ngcontent-c3="" class="short-bio">Student | Developer | Contributor</h4><q _ngcontent-c3="" class="quote">Help others in the way of self-learning</q><div _ngcontent-c3="" class="name"><p _ngcontent-c3=""> RITWICK DEY </p><div _ngcontent-c3="" class="strip"></div></div><span _ngcontent-c3="" class="tada-animation"><button _ngcontent-c3="" class="special-btn"><span _ngcontent-c3=""> Explore Me </span></button></span><div _ngcontent-c3="" class="stick"><div _ngcontent-c3="" class="stick-design"></div></div></div></div></app-landing-page></app-profile></div></app-root>
+<script type="text/javascript" src="runtime.a66f828dca56eeb90e02.js"></script><script type="text/javascript" src="polyfills.9f50de9bf804bf4327ec.js"></script><script type="text/javascript" src="main.924616914339f3979eb1.js"></script>
+
+
+</body></html>

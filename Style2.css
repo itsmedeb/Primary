@@ -1,0 +1,72 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Oswald:400,600');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
+body {
+    margin 0;
+    padding 0;
+    background: url(images/wlcm.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+}
+.Button1{
+    border: none;
+    outline: none;
+    background: #fb2525;
+    color: #fff;
+    font-size:18px;
+    border-radius:20px;
+}
+.Button1:hover{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+header{
+    background:black;
+    color: white;
+    padding:8px 0px 8px 40px;
+    margin: 0;
+    height: 48px;
+}
+header h1{
+    display:inline;
+    font-family: 'Oswald', sans-serif;
+    font-weight:400;
+    font-size: 32px;
+    float:left;
+    margin-top:5px;
+    margin-right:0px;
+    margin-right: 10px;
+}
+nav ul{
+    display:inline;
+    padding:0px;
+    float:left;
+}
+nav ul li{
+    display:inline-block;
+    list-style-type:none;
+    color:white;
+    float:left;
+    margin-left:12px;
+}
+nav ul li a{
+    color:white;
+    text-decoration: none;
+}
+#nav{
+    font-family: 'Montserrat', sans-serif;
+}
+.homered{
+    background-color:red;
+    padding: 30px 10px 16px 10px;
+}
+.divider{
+    background-color:red;
+    padding-top:3px;
+}
+.homeblack:hover{
+    background-color:blue;
+    padding:28px 10px 16px 10px;
+}
